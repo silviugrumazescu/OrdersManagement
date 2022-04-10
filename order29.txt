@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 29
+--------------------------
+Client: 
+	Nume: Costel
+	Prenume: Vamesu
+	Email: costikka.vamesu@gmail.com
+Adresa livrare: Radaseni, str. Viilor nr.2
+--------------------------
+Produse: Chinga de ancoraj x 2
+Total: 2 x 100 lei = 200

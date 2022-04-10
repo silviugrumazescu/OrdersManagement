@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 31
+--------------------------
+Client: 
+	Nume: Matei
+	Prenume: Corvin
+	Email: mateiush420@yahoo.com
+Adresa livrare: Cluj-Napoca, str. Augusting Presecan nr. 6 bl. T2
+--------------------------
+Produse: Tabla zincata x 5
+Total: 5 x 34 lei = 170

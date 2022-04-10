@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 28
+--------------------------
+Client: 
+	Nume: Maria 
+	Prenume: Ioana
+	Email: mariaioana5020@yahoo.com
+Adresa livrare: Iasi, str. Mihai Eminescu nr. 19
+--------------------------
+Produse: Cuie x 5
+Total: 5 x 1 lei = 5

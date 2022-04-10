@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 33
+--------------------------
+Client: 
+	Nume: Laura
+	Prenume: Matei
+	Email: laura.matei@yahoo.com
+Adresa livrare: Constanta, Costinesti, str. Delfinului nr.2
+--------------------------
+Produse: Stivuitor electric x 1
+Total: 1 x 21000 lei = 21000

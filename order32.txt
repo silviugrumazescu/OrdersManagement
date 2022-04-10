@@ -1,0 +1,10 @@
+FACTURA COMANDA NR. 32
+--------------------------
+Client: 
+	Nume: Mircea
+	Prenume: Diaconu
+	Email: mircea.diaconu@protonmail.com
+Adresa livrare: Bucuresti, str. Victoriei nr. 8
+--------------------------
+Produse: Ciocan  x 2
+Total: 2 x 20 lei = 40
